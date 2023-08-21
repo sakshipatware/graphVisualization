@@ -1,0 +1,34 @@
+1. D3.js
+Pros: Offers fine-grained control over visualization elements. Widely used for custom data visualizations.
+Cons: Steeper learning curve due to its low-level nature. Requires more code for complex visualizations.
+Reasoning: D3.js provides great flexibility and customization options, but it might require more effort to implement complex interactions.
+
+2. Cytoscape.js
+Pros: Well-documented, highly customizable, and easy to integrate with React. Supports various layout algorithms.
+Cons: Less visually appealing out-of-the-box compared to other libraries.
+Reasoning: Cytoscape.js is a solid choice for building graph visualizations with good support for interactions and customizations.
+
+3. Vis.js
+Pros: Easy to set up, supports various graph types, and interactions. Has built-in timeline visualization.
+Cons: Limited styling options compared to other libraries.
+Reasoning: Vis.js is suitable for scenarios where you need a straightforward setup with basic interactivity and timeline visualization.
+
+
+4. Sigma.js
+Pros: High performance, well-suited for handling large graphs. Supports WebGL for smooth visualization.
+Cons: Might require more effort for customizations and interactions.
+Reasoning: Sigma.js is great for visualizing large graphs while maintaining performance. It might require more development effort for advanced interactions.
+
+
+Based on the requirements you've provided, Cytoscape.js seems to be a good fit due to its ease of integration with React, good support for interactions, and customizations. It also supports layout algorithms that can help in achieving automatic node grouping and edge expansion.
+
+Using Cytoscape.js for the demonstrations of two use-cases:
+
+Case 1: Expand and Collapse Nodes and Edges
+In this use-case, we'll demonstrate how to use Cytoscape.js to expand and collapse nodes and edges when clicked.
+
+Case 2: Filtering Connections Based on Entities
+In this use-case, we'll demonstrate how to use Cytoscape.js to filter connections based on entities.
+
+Case 3: Remove & readd edges.
+In this use-case, we'll demonstrate how to use Cytoscape.js to add and remove connections based on entities on click.
