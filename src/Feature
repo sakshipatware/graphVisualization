@@ -22,7 +22,7 @@ Reasoning: Sigma.js is great for visualizing large graphs while maintaining perf
 
 Based on the requirements you've provided, Cytoscape.js seems to be a good fit due to its ease of integration with React, good support for interactions, and customizations. It also supports layout algorithms that can help in achieving automatic node grouping and edge expansion.
 
-Using Cytoscape.js for the demonstrations of two use-cases:
+Using Cytoscape.js for the demonstrations of three use-cases:
 
 Case 1: Expand and Collapse Nodes and Edges
 In this use-case, we'll demonstrate how to use Cytoscape.js to expand and collapse nodes and edges when clicked.

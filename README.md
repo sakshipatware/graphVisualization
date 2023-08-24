@@ -17,4 +17,4 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 
 list of all the libraries that you have evaluated, pros-cons of each and the reasoning behind decision are in Feature file ("./src/Feature")
 
-Demonstrated 2 case in GraphVisualization component (./src/GraphVisualization.tsx)
+Demonstrated 3 case in GraphVisualization component (./src/GraphVisualization.tsx)
